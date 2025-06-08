@@ -1,4 +1,4 @@
-# 📊 Interactive Tableau Dashboards by Darshan Lakhankiya
+# 📊 Interactive Tableau Dashboards
 
 Welcome to my Tableau dashboard portfolio. This repository contains interactive visualizations built to derive actionable insights from real-world datasets. Each dashboard focuses on a unique domain and uses thoughtful UI/UX design, meaningful KPIs, and engaging data storytelling.
 
