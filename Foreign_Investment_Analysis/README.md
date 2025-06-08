@@ -23,7 +23,7 @@ This Tableau project presents an in-depth analysis of **Foreign Direct Investmen
 
 ## 🧩 Dashboard 1: Overview & Trend Highlights
 
-![Dashboard 1](./investmenttrend_1.jpg)
+![Dashboard 1](./investmenttrend_1.JPG)
 
 ### 📈 Key Features
 
@@ -38,7 +38,7 @@ This Tableau project presents an in-depth analysis of **Foreign Direct Investmen
 
 ## 📊 Dashboard 2: Sector Deep Dive & Forecast
 
-![Dashboard 2](./investmenttrend_1.jpg)
+![Dashboard 2](./investmenttrend_1.JPG)
 
 ### 🧠 Key Components
 
