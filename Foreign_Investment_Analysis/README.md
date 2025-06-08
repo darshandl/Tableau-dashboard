@@ -1,8 +1,6 @@
 
 # 🌍 Foreign Direct Investment Analytics Dashboard (Tableau)
 
-![FDI Dashboard Overview](./b6a55206-9e0e-4d51-9151-1d1939ea7ecc.JPG)
-
 ## 📌 Overview
 
 This Tableau project presents an in-depth analysis of **Foreign Direct Investment (FDI)** across various sectors in India. The dashboard aims to identify investment trends, sector-wise growth, and potential opportunities based on real historical financial data.
@@ -25,7 +23,7 @@ This Tableau project presents an in-depth analysis of **Foreign Direct Investmen
 
 ## 🧩 Dashboard 1: Overview & Trend Highlights
 
-![Dashboard 1](./b6a55206-9e0e-4d51-9151-1d1939ea7ecc.JPG)
+![Dashboard 1](./investmenttrend_1.jpg)
 
 ### 📈 Key Features
 
@@ -40,7 +38,7 @@ This Tableau project presents an in-depth analysis of **Foreign Direct Investmen
 
 ## 📊 Dashboard 2: Sector Deep Dive & Forecast
 
-![Dashboard 2](./e6eaacda-8f2b-46dc-a394-245b4e421682.JPG)
+![Dashboard 2](./investmenttrend_1.jpg)
 
 ### 🧠 Key Components
 
