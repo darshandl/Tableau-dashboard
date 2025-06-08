@@ -1,6 +1,6 @@
 # 📦 Analyzing Amazon Sales Data
 
-![Dashboard Preview](./amazon_dashboard.png)
+![Dashboard Preview](./amazon_sales.JPG)
 
 ## 🧠 Project Overview
 
