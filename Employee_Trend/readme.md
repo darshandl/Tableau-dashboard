@@ -1,7 +1,7 @@
 
 # 👩‍💼 Employee Data Analysis Dashboard
 
-![Dashboard Preview](./e3092b11-a591-49db-b713-f5b946600cc1.JPG)
+![Dashboard Preview](./Employee_trend.JPG)
 
 ## 🔍 Overview
 
@@ -44,12 +44,6 @@ This dashboard enables:
 - Improved HR policy planning
 - Targeted employee engagement strategies
 - Easier monitoring of organizational workforce structure
-
----
-
-## 🖼️ Screenshot
-
-![Dashboard Overview](./e3092b11-a591-49db-b713-f5b946600cc1.JPG)
 
 ---
 
