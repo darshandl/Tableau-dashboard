@@ -1,7 +1,7 @@
 
 # 📞 Call Center Data Analysis Dashboard
 
-![Dashboard Screenshot](./f85ac7b0-2027-428f-8019-289c9ce3127d.JPG)
+![Dashboard Screenshot](./Call_Center.JPG)
 
 ## 📌 Project Overview
 
@@ -62,8 +62,8 @@ This dashboard empowers contact center managers and analysts to:
 
 ## 📂 Files Included
 
-- `f85ac7b0-2027-428f-8019-289c9ce3127d.JPG` — Dashboard screenshot
-- `README.md` — This file
+- `Call_Center.JPG` — Dashboard screenshot
+- `readme.md` — This file
 
 ---
 
