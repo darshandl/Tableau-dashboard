@@ -1,7 +1,7 @@
 
 # 🚗 Exploring Trends in the Automotive Industry
 
-![Dashboard Preview](./cde77581-8bb4-490a-9f7f-e609133f9ce2.JPG)
+![Dashboard Preview](./Automative_trend.JPG)
 
 🔗 **[View Interactive Dashboard in Tableau](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/ExploringTrendsintheAutomotiveIndustry_17494124918290/Dashboard1)**
 
