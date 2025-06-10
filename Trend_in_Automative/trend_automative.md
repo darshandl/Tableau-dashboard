@@ -51,8 +51,8 @@ This dashboard helps auto dealers, analysts, and business strategists to:
 
 ## 🧾 Credits
 
-Created by **Darshan Lakhankiya**  
-Shared as part of an open data visualization portfolio.
+📍 **Designed by:** Darshan Lakhankiya  
+📊 **Tableau Public Portfolio:** [Visit Here](https://public.tableau.com/app/profile/darshan.lakhankiya)
 
 ---
 
