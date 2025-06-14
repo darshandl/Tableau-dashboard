@@ -45,3 +45,12 @@ The dataset used is the **Netflix Movies and TV Shows dataset** available on [Ka
 - **Mapbox (for geographical visuals)**
 
 ---
+
+## 🧾 Credits
+
+📍 **Designed by:** Darshan Lakhankiya  
+📊 **Tableau Public Portfolio:** [Visit Here](https://public.tableau.com/app/profile/darshan.lakhankiya)
+
+---
+
+> 📢 _Note: This dataset is anonymized and used strictly for educational purposes._
