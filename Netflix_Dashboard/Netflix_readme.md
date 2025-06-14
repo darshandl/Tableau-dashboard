@@ -6,7 +6,7 @@
 ## 📌 Overview
 This Tableau project explores the Netflix dataset to analyze and visualize various aspects of the platform’s content library. From identifying top genres to understanding ratings and country-level distribution, this dashboard delivers valuable insights in an interactive and visual format.
 
-🔗 **[View Live Dashboard](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/Netflix_DataAnalysis/Dashboard1)**
+🔗 **[View Live Dashboard](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/NetflixDashboard_17496975141210/Netflix)**
 
 ---
 
