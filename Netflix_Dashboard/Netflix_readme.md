@@ -45,11 +45,3 @@ The dataset used is the **Netflix Movies and TV Shows dataset** available on [Ka
 - **Mapbox (for geographical visuals)**
 
 ---
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repo and submit a pull request with improvements or new insights.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
