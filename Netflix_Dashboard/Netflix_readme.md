@@ -46,11 +46,6 @@ The dataset used is the **Netflix Movies and TV Shows dataset** available on [Ka
 
 ---
 
-## 📥 How to Use
-Clone this repository or download the `.twbx` file to explore the Tableau workbook locally. You can also access the interactive version via the Tableau Public link.
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request with improvements or new insights.
 
