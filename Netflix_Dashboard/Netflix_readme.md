@@ -1,7 +1,7 @@
 
 # 🎬 Netflix Data Analysis (Tableau)
 
-![Dashboard Preview](./fbdde1af-fdaa-4b85-b32c-16a4ef632918.JPG)
+![Dashboard Preview](./Netflix.JPG)
 
 ## 📌 Overview
 This Tableau project explores the Netflix dataset to analyze and visualize various aspects of the platform’s content library. From identifying top genres to understanding ratings and country-level distribution, this dashboard delivers valuable insights in an interactive and visual format.
