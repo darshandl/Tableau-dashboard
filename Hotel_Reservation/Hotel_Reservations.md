@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard designed to analyze hotel booking patterns, track monthly trends, and uncover insights about reservation behavior, room types, and channel effectiveness.
 
-![Hotel Reservations Dashboard](./9e6816df-2914-4b68-9bcc-7af8429c405a.JPG)
+![Hotel Reservations Dashboard](./Hotel_Booking.JPG)
 
 🔗 **[Live Dashboard on Tableau](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/HotelReservationsDashboard_17496980923560/HotelReservationsDashboard)**  
 📊 **[Darshan's Tableau Profile](https://public.tableau.com/app/profile/darshan.lakhankiya)**
