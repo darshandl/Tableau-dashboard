@@ -4,8 +4,7 @@ An interactive Tableau dashboard designed to analyze hotel booking patterns, tra
 
 ![Hotel Reservations Dashboard](./Hotel_Booking.JPG)
 
-🔗 **[Live Dashboard on Tableau](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/HotelReservationsDashboard_17496980923560/HotelReservationsDashboard)**  
-📊 **[Darshan's Tableau Profile](https://public.tableau.com/app/profile/darshan.lakhankiya)**
+🔗 **[Live Dashboard on Tableau](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/HotelReservationsDashboard_17496980923560/HotelReservationsDashboard)** 
 
 ---
 
@@ -47,12 +46,12 @@ An interactive Tableau dashboard designed to analyze hotel booking patterns, tra
 
 ## 📂 File Overview
 
-- `9e6816df-2914-4b68-9bcc-7af8429c405a.JPG` — Dashboard Snapshot
-- `README.md` — You’re here!
+- `Hotel_Booking.JPG` — Dashboard Snapshot
+- `Hotel_Reservations.md` — You’re here!
 
 ---
 
 ## 📬 Contact
 
 Created by **Darshan Lakhankiya**  
-For more dashboards and analytics, visit [my Tableau profile »](https://public.tableau.com/app/profile/darshan.lakhankiya)
+For more dashboards and analytics, visit [my Tableau profile 📊»](https://public.tableau.com/app/profile/darshan.lakhankiya)
