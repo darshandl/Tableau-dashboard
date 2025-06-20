@@ -28,4 +28,4 @@ This project presents an interactive Tableau dashboard designed to analyze **ped
 
 ---
 
-> 📌 **Note**: Design credits to *Bridget Cogley*; dashboard reinterpreted and published by **Darshan** for analytical exploration.
+> 📌 **Note**: Design credits to *Bridget Cogley*; dashboard reinterpreted and published by **Darshan Lakhankiya** for analytical exploration.
