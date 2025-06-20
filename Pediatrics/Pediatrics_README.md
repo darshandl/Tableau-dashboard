@@ -3,7 +3,7 @@
 
 This project presents an interactive Tableau dashboard designed to analyze **pediatric patient encounters** across various hospital departments. It leverages clustering to identify patterns in **patient length of stay (LOS)** and **encounter frequency**, offering actionable insights for healthcare management.
 
-![Pediatrics Overview](./5e34b470-9330-42c2-b5be-2b90b4dce5a7.JPG)
+![Pediatrics Overview](./Pediatrics_review.JPG)
 
 ## 🔍 Project Highlights
 
