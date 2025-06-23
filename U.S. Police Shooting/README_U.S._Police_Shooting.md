@@ -1,5 +1,7 @@
 # 🚨 U.S. Police Shootings Analysis Dashboard (2015–2022)
 
+![U.S. Police Shooting](./Police_Shooting.JPG)
+
 📊 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/U_S_PoliceShootingsAnalysisDashboard_17504749187690/Dashboard)  
 🔗 [Visit My Tableau Profile](https://public.tableau.com/app/profile/darshan.lakhankiya)
 
