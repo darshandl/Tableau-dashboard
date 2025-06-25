@@ -58,7 +58,7 @@ Visualizes national-level police shooting data with filters for race, mental ill
 
 ---
 
-### 10. [Walmart Sales Analysis](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/WalmartSalesAnalysis_17496967015350/WalmartSalesAnalysis)
+### 10. [Walmart Sales Analysis](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/WalmartRetailDataAnalysis_17508157894160/Dashboard1)
 **Folder:** `Walmart_Analysis`  
 Insights into store-wise and department-wise performance, revenue, and growth opportunities.
 
