@@ -48,7 +48,8 @@ The dashboard helps answer key questions:
 
 ## 📸 Dashboard Preview  
 
-![Video Game Dashboard](./Game Analysis.jpeg) 
+![Dashboard Preview](./Game Analysis.JPG) 
+![Dashboard Preview](./Automative_trend.JPG)
 
 ---
 
