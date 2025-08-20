@@ -48,14 +48,13 @@ The dashboard helps answer key questions:
 
 ## 📸 Dashboard Preview  
 
-![Video Game Dashboard](./'Game Analysis.JPG')  
-*(Replace with actual screenshot file from your repo, e.g. `Screenshot 2025-08-20 at 18.41.41.JPG`)*  
+![Video Game Dashboard](./"Game Analysis.JPG")  
 
 ---
 
 ## 👤 Author  
 **Darshan Lakhankiya**  
-- 📊 Tableau & Power BI Portfolio: [View Here](https://public.tableau.com/app/profile/darshan.lakhankiya/vizzes)  
+- 📊 Tableau Portfolio: [View Here](https://public.tableau.com/app/profile/darshan.lakhankiya/vizzes)  
 - 💼 GitHub: [darshandl](https://github.com/darshandl)  
 
 ---
