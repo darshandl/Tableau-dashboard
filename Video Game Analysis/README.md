@@ -48,7 +48,7 @@ The dashboard helps answer key questions:
 
 ## 📸 Dashboard Preview  
 
-![Video Game Dashboard](./Game Analysis.JPG)  
+![Video Game Dashboard](./'Game Analysis.JPG')  
 *(Replace with actual screenshot file from your repo, e.g. `Screenshot 2025-08-20 at 18.41.41.JPG`)*  
 
 ---
