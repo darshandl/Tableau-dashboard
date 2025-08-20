@@ -1,6 +1,5 @@
 # 🎮 Video Game Analytics Dashboard  
 
-[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-PowerBI-blue?logo=powerbi)](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/video_game_dashboard_17556456255090/Dashboard2)  
 
 ## 📌 Project Overview  
 This interactive **Video Game Analytics Dashboard** is built in **Power BI** to explore and visualize insights about the video game industry. It provides a clear and intuitive view of publishing trends, top publishers, gaming platforms, and genre distributions.  
