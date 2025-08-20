@@ -1,6 +1,6 @@
 # 🎮 Video Game Analytics Dashboard  
 
-[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-PowerBI-blue?logo=powerbi)](https://app.powerbigov.us/view?r=eyJrIjoiZGZlOGYxYTYtYjRhZS00ZjkyLTkzOGEtZWI4NTAzYmNiZGVhIiwidCI6IjljZTBkZTYxLTk4NTctNDlhMi1iNDBjLTNhOWNiOWY4ZjRkYyJ9)  
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-PowerBI-blue?logo=powerbi)](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/video_game_dashboard_17556456255090/Dashboard2)  
 
 ## 📌 Project Overview  
 This interactive **Video Game Analytics Dashboard** is built in **Power BI** to explore and visualize insights about the video game industry. It provides a clear and intuitive view of publishing trends, top publishers, gaming platforms, and genre distributions.  
@@ -41,7 +41,7 @@ The dashboard helps answer key questions:
 ---
 
 ## 🚀 How to Access  
-1. Open the dashboard here: [Video Game Analytics Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZGZlOGYxYTYtYjRhZS00ZjkyLTkzOGEtZWI4NTAzYmNiZGVhIiwidCI6IjljZTBkZTYxLTk4NTctNDlhMi1iNDBjLTNhOWNiOWY4ZjRkYyJ9)  
+1. Open the dashboard here: [Video Game Analytics Dashboard](https://public.tableau.com/app/profile/darshan.lakhankiya/viz/video_game_dashboard_17556456255090/Dashboard2)  
 2. Navigate through charts to explore insights.  
 3. Use filters (if available) to drill into publishers, years, or platforms.  
 
@@ -49,7 +49,7 @@ The dashboard helps answer key questions:
 
 ## 📸 Dashboard Preview  
 
-![Video Game Dashboard](./Screenshot_2025-08-20.png)  
+![Video Game Dashboard](./Game Analysis.JPG)  
 *(Replace with actual screenshot file from your repo, e.g. `Screenshot 2025-08-20 at 18.41.41.JPG`)*  
 
 ---
